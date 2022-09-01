@@ -1,0 +1,8 @@
+---
+elasticsearch:
+  hosts:
+    elastic1:
+      ansible_host: 192.168.88.97
+      ansible_connection: ssh
+      ansible_user: vagrant
+      ansible_password: vagrant
